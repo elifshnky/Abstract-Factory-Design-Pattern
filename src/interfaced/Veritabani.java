@@ -9,8 +9,6 @@ public class Veritabani {
     public Veritabani(){
         kullanicilar =new ArrayList<Kullanici>();
         urunler=new ArrayList<Urun>();
-        
-       
 
     }
     public String getSifreFromMail(String mail) {
